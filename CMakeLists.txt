@@ -8,4 +8,8 @@ include_directories(matematicas)
 add_executable(Israel_Lara_Coleccion_flujos
     matematicas/matematicas.cpp
     matematicas/matematicas.h
-    main.cpp)
+    main.cpp
+        Geometria/geometria.h
+        Geometria/triangulo.cpp
+        Geometria/circulo.cpp
+        Geometria/cuadrado.cpp)
