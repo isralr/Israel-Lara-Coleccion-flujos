@@ -1,0 +1,3 @@
+C:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/cmake-build-debug/CMakeFiles/Israel_Lara_Coleccion_flujos.dir
+C:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
