@@ -1,5 +1,5 @@
 #include <iostream>
-#include "matematicas/matematicas.h"
+#include "ciencia/matematicas/matematicas.h"
 #include "geometria/geometria.h"
 
 int main() {

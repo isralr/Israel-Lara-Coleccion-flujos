@@ -3,11 +3,11 @@ project(Israel_Lara_Coleccion_flujos)
 
 set(CMAKE_CXX_STANDARD 14)
 
-include_directories(matematicas)
+include_directories(ciencia/matematicas)
 
 add_executable(Israel_Lara_Coleccion_flujos
-    matematicas/matematicas.cpp
-    matematicas/matematicas.h
+        ciencia/matematicas/matematicas.cpp
+        ciencia/matematicas/matematicas.h
     main.cpp
         Geometria/geometria.h
         Geometria/triangulo.cpp
