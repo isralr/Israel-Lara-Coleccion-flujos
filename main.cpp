@@ -1,6 +1,7 @@
 #include <iostream>
 #include "ciencia/matematicas/matematicas.h"
 #include "geometria/geometria.h"
+#include "ciencia/fisica/fisica.h"
 
 int main() {
     int num;
@@ -23,6 +24,10 @@ int main() {
     geometria::Triangulo triangulo(4.0, 3.0);
     std::cout << "Área del triángulo: " << triangulo.area() << std::endl;
     std::cout << "Perímetro del triángulo: " << triangulo.perimetro() << std::endl;
+
+    double masa = 2.0; // en kilogramos
+    double energia = Ciencia::Fisica::calcularEnergia(masa);
+    std::cout << "Energía de un objeto con masa " << masa << " kg: " << energia << " julios" << std::endl;
 
     return 0;
 }

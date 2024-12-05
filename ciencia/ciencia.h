@@ -1,16 +1,8 @@
-//
-// Created by israe on 05/12/2024.
-//
-
 #ifndef CIENCIA_H
 #define CIENCIA_H
 
+namespace Ciencia {
+    // Other declarations can go here
+}
 
-
-class ciencia {
-
-};
-
-
-
-#endif //CIENCIA_H
+#endif // CIENCIA_H

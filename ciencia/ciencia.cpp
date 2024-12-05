@@ -1,5 +1,3 @@
-//
-// Created by israe on 05/12/2024.
-//
-
 #include "ciencia.h"
+
+// Implementations for Ciencia namespace can go here

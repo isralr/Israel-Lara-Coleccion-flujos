@@ -1,16 +1,12 @@
-//
-// Created by israe on 05/12/2024.
-//
-
 #ifndef FISICA_H
 #define FISICA_H
 
+namespace Ciencia {
+    namespace Fisica {
+        const double VELOCIDAD_DE_LA_LUZ = 299792458.0; // en metros por segundo
 
+        double calcularEnergia(double masa);
+    }
+}
 
-class fisica {
-
-};
-
-
-
-#endif //FISICA_H
+#endif // FISICA_H
