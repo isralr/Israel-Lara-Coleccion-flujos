@@ -7,9 +7,17 @@ include_directories(ciencia/matematicas)
 
 add_executable(Israel_Lara_Coleccion_flujos
     main.cpp
-        ejercicio1/generalidades.h
-        ejercicio1/generalidades.cpp
-        ejercicio2/flujos_integrados.h
-        ejercicio2/flujos_integrados.cpp
-        ejercicio3/estado_flujo.cpp
-)
+        ciencias/flujos_integrados.cpp
+        ciencias/flujos_integrados.h
+        ciencias/generalidades.cpp
+        ciencias/generalidades.h
+        matematicas/argumentos_locales.cpp
+        matematicas/argumentos_locales.h
+        matematicas/estado_flujo.cpp
+        matematicas/estado_flujo.h
+        matematicas/flujo_archivos.cpp
+        matematicas/flujo_archivos.h
+        matematicas/flujo_cadenas.cpp
+        matematicas/flujo_cadenas.h
+        matematicas/formato.cpp
+        matematicas/formato.h)
