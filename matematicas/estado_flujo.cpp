@@ -1,5 +1,12 @@
-//
-// Created by israe on 08/12/2024.
-//
+#include <iostream>
+#include <fstream>
 
-#include "estado_flujo.h"
+void ejecutarEjercicioEstadoFlujo() {
+    std::ifstream file("example.txt");
+    if (!file) {
+        std::cerr << "No se pudo abrir el archivo.\n";
+    } else {
+        std::cout << "El archivo se abrió correctamente.\n";
+    }
+    file.close();
+}
