@@ -9,4 +9,7 @@ add_executable(Israel_Lara_Coleccion_flujos
     main.cpp
         ejercicio1/generalidades.h
         ejercicio1/generalidades.cpp
+        ejercicio2/flujos_integrados.h
+        ejercicio2/flujos_integrados.cpp
+        ejercicio3/estado_flujo.cpp
 )

@@ -1,13 +1,11 @@
 # ninja log v6
 8	136	7551004105969596	CMakeFiles/Israel_Lara_Coleccion_flujos.dir/matematicas/matematicas.cpp.obj	f3e1f6f8a608b098
 41	405	7551016616382789	CMakeFiles/Israel_Lara_Coleccion_flujos.dir/Geometria/circulo.cpp.obj	21a27eea117d41c7
-10	795	7551020385635850	CMakeFiles/Israel_Lara_Coleccion_flujos.dir/main.cpp.obj	a8747da4495972a
-796	1027	7551020393489364	Israel_Lara_Coleccion_flujos.exe	c36c23e5c370dae9
+13	952	7553650055133145	CMakeFiles/Israel_Lara_Coleccion_flujos.dir/main.cpp.obj	a8747da4495972a
+982	1264	7553650064825350	Israel_Lara_Coleccion_flujos.exe	899df22e91fa748b
 28	251	7551016616266996	CMakeFiles/Israel_Lara_Coleccion_flujos.dir/Geometria/triangulo.cpp.obj	3853608725660a9d
 54	407	7551016616514776	CMakeFiles/Israel_Lara_Coleccion_flujos.dir/Geometria/cuadrado.cpp.obj	c10117088a86f573
 65	406	7551016616637427	CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ciencia/fisica/fisica.cpp.obj	e653e6c5642367b8
 8	239	7551016616057692	CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ciencia/matematicas/matematicas.cpp.obj	108857331588245e
 240	534	7551016618378197	CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ciencia/ciencia.cpp.obj	a1724dbd5cf99abd
-13	952	7553650055133145	CMakeFiles/Israel_Lara_Coleccion_flujos.dir/main.cpp.obj	a8747da4495972a
 29	982	7553650055300674	CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ejercicio1/generalidades.cpp.obj	503d33ce6b7e958d
-982	1264	7553650064825350	Israel_Lara_Coleccion_flujos.exe	899df22e91fa748b

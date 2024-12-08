@@ -63,6 +63,20 @@ build CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ejercicio1/generalidades.cpp.o
   OBJECT_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir
   OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\ejercicio1
 
+build CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ejercicio2/flujos_integrados.cpp.obj: CXX_COMPILER__Israel_Lara_Coleccion_flujos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/ejercicio2/flujos_integrados.cpp || cmake_object_order_depends_target_Israel_Lara_Coleccion_flujos
+  DEP_FILE = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\ejercicio2\flujos_integrados.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/ciencia/matematicas
+  OBJECT_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\ejercicio2
+
+build CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ejercicio3/estado_flujo.cpp.obj: CXX_COMPILER__Israel_Lara_Coleccion_flujos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/ejercicio3/estado_flujo.cpp || cmake_object_order_depends_target_Israel_Lara_Coleccion_flujos
+  DEP_FILE = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\ejercicio3\estado_flujo.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/ciencia/matematicas
+  OBJECT_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\ejercicio3
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Israel_Lara_Coleccion_flujos
@@ -71,7 +85,7 @@ build CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ejercicio1/generalidades.cpp.o
 #############################################
 # Link the executable Israel_Lara_Coleccion_flujos.exe
 
-build Israel_Lara_Coleccion_flujos.exe: CXX_EXECUTABLE_LINKER__Israel_Lara_Coleccion_flujos_Debug CMakeFiles/Israel_Lara_Coleccion_flujos.dir/main.cpp.obj CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ejercicio1/generalidades.cpp.obj
+build Israel_Lara_Coleccion_flujos.exe: CXX_EXECUTABLE_LINKER__Israel_Lara_Coleccion_flujos_Debug CMakeFiles/Israel_Lara_Coleccion_flujos.dir/main.cpp.obj CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ejercicio1/generalidades.cpp.obj CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ejercicio2/flujos_integrados.cpp.obj CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ejercicio3/estado_flujo.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir
