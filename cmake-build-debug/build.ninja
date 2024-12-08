@@ -49,13 +49,6 @@ cmake_ninja_workdir = C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Col
 
 build cmake_object_order_depends_target_Israel_Lara_Coleccion_flujos: phony || .
 
-build CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ciencia/matematicas/matematicas.cpp.obj: CXX_COMPILER__Israel_Lara_Coleccion_flujos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/ciencia/matematicas/matematicas.cpp || cmake_object_order_depends_target_Israel_Lara_Coleccion_flujos
-  DEP_FILE = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\ciencia\matematicas\matematicas.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/ciencia/matematicas
-  OBJECT_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir
-  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\ciencia\matematicas
-
 build CMakeFiles/Israel_Lara_Coleccion_flujos.dir/main.cpp.obj: CXX_COMPILER__Israel_Lara_Coleccion_flujos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/main.cpp || cmake_object_order_depends_target_Israel_Lara_Coleccion_flujos
   DEP_FILE = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
@@ -63,40 +56,12 @@ build CMakeFiles/Israel_Lara_Coleccion_flujos.dir/main.cpp.obj: CXX_COMPILER__Is
   OBJECT_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir
   OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir
 
-build CMakeFiles/Israel_Lara_Coleccion_flujos.dir/Geometria/triangulo.cpp.obj: CXX_COMPILER__Israel_Lara_Coleccion_flujos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/Geometria/triangulo.cpp || cmake_object_order_depends_target_Israel_Lara_Coleccion_flujos
-  DEP_FILE = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\Geometria\triangulo.cpp.obj.d
+build CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ejercicio1/generalidades.cpp.obj: CXX_COMPILER__Israel_Lara_Coleccion_flujos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/ejercicio1/generalidades.cpp || cmake_object_order_depends_target_Israel_Lara_Coleccion_flujos
+  DEP_FILE = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\ejercicio1\generalidades.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/ciencia/matematicas
   OBJECT_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir
-  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\Geometria
-
-build CMakeFiles/Israel_Lara_Coleccion_flujos.dir/Geometria/circulo.cpp.obj: CXX_COMPILER__Israel_Lara_Coleccion_flujos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/Geometria/circulo.cpp || cmake_object_order_depends_target_Israel_Lara_Coleccion_flujos
-  DEP_FILE = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\Geometria\circulo.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/ciencia/matematicas
-  OBJECT_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir
-  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\Geometria
-
-build CMakeFiles/Israel_Lara_Coleccion_flujos.dir/Geometria/cuadrado.cpp.obj: CXX_COMPILER__Israel_Lara_Coleccion_flujos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/Geometria/cuadrado.cpp || cmake_object_order_depends_target_Israel_Lara_Coleccion_flujos
-  DEP_FILE = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\Geometria\cuadrado.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/ciencia/matematicas
-  OBJECT_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir
-  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\Geometria
-
-build CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ciencia/fisica/fisica.cpp.obj: CXX_COMPILER__Israel_Lara_Coleccion_flujos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/ciencia/fisica/fisica.cpp || cmake_object_order_depends_target_Israel_Lara_Coleccion_flujos
-  DEP_FILE = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\ciencia\fisica\fisica.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/ciencia/matematicas
-  OBJECT_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir
-  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\ciencia\fisica
-
-build CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ciencia/ciencia.cpp.obj: CXX_COMPILER__Israel_Lara_Coleccion_flujos_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/ciencia/ciencia.cpp || cmake_object_order_depends_target_Israel_Lara_Coleccion_flujos
-  DEP_FILE = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\ciencia\ciencia.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-Coleccion-flujos/ciencia/matematicas
-  OBJECT_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir
-  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\ciencia
+  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir\ejercicio1
 
 
 # =============================================================================
@@ -106,7 +71,7 @@ build CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ciencia/ciencia.cpp.obj: CXX_C
 #############################################
 # Link the executable Israel_Lara_Coleccion_flujos.exe
 
-build Israel_Lara_Coleccion_flujos.exe: CXX_EXECUTABLE_LINKER__Israel_Lara_Coleccion_flujos_Debug CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ciencia/matematicas/matematicas.cpp.obj CMakeFiles/Israel_Lara_Coleccion_flujos.dir/main.cpp.obj CMakeFiles/Israel_Lara_Coleccion_flujos.dir/Geometria/triangulo.cpp.obj CMakeFiles/Israel_Lara_Coleccion_flujos.dir/Geometria/circulo.cpp.obj CMakeFiles/Israel_Lara_Coleccion_flujos.dir/Geometria/cuadrado.cpp.obj CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ciencia/fisica/fisica.cpp.obj CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ciencia/ciencia.cpp.obj
+build Israel_Lara_Coleccion_flujos.exe: CXX_EXECUTABLE_LINKER__Israel_Lara_Coleccion_flujos_Debug CMakeFiles/Israel_Lara_Coleccion_flujos.dir/main.cpp.obj CMakeFiles/Israel_Lara_Coleccion_flujos.dir/ejercicio1/generalidades.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Israel_Lara_Coleccion_flujos.dir
