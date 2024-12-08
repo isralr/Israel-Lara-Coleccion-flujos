@@ -7,9 +7,7 @@
 
 
 
-class flujo_cadenas {
-
-};
+void ejecutarEjercicioFlujoCadenas();
 
 
 

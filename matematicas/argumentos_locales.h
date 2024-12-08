@@ -7,10 +7,7 @@
 
 
 
-class argumentos_locales {
-
-};
-
+void ejecutarEjercicioArgumentosLocales(int argc, char* argv[]);
 
 
 #endif //ARGUMENTOS_LOCALES_H
